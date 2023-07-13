@@ -1,11 +1,6 @@
-body {
-	background-color: powderblue;
-}
+body {background-color: powderblue;}
 
-h1 {
-	color: white;
-}
+h1 {color: white;}
 
-p {
-	color: white;
-}
+p {color: white;
+   border: 2px solid powderblue;}
