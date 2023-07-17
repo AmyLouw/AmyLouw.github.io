@@ -7,13 +7,21 @@ p{font-family: verdana;
 h1{font-family: verdana;
     color: white;}
 
-ul{
+h2{font-family: verdana;
+    color: white;}
+
+ul.a{
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	background-color: lightslategray;
 	overflow: hidden;
 	font-family: verdana;
+}
+ul{
+    list-style-type: circle;
+    color: white;
+    font-family: verdana;
 }
 
 li{ float: left;}
@@ -79,6 +87,12 @@ img {
 	width: 100%;
 	float: right;
 }
-	
+
+td.a{
+    width: 30%;}
+
+td.b{
+    width: 15%
+}
 
 

@@ -1,13 +1,16 @@
-body {background-color: gainsboro;}
+body {background-color: dimgray;
+    margin: 0;}
 
-p{font-family: verdana;}
-h1{font-family: verdana;}
+p{font-family: verdana;
+    color: white;}
+h1{font-family: verdana;
+    color: white;}
 
 ul{
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	background-color: dimgray;
+	background-color: lightslategray;
 	overflow: hidden;
 	font-family: verdana;
 }
