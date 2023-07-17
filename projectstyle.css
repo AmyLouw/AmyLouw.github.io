@@ -9,6 +9,7 @@ ul{
 	padding: 0;
 	background-color: dimgray;
 	overflow: hidden;
+	font-family: verdana;
 }
 
 li{ float: left;}
